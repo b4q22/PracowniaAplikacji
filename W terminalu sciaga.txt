@@ -1,0 +1,15 @@
+W terminalu:
+cd Desktop
+git clone https://github.com/b4q22/PracowniaAplikacji.git
+cd PracowniaAplikacji
+
+-> Przenieś folder zadania2 do folderu PracowniaAplikacji
+
+git config user.name "Imię Nazwisko"
+git config user.email "email"
+
+git add .
+git commit -m "komentarz"
+git push
+
+-> zaloguj się przez przeglądarkę
